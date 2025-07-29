@@ -41,10 +41,10 @@ python3 src/main_pipeline.py
 ```
 
 This will execute all sections in order:
-1. **Dataset Pipeline** (10 points)
-2. **Segmentation** (60 points) 
-3. **Tumor Detection** (30 points)
-4. **Bonus Deep Learning** (10 points)
+1. **Dataset Pipeline** - Data preparation and visualization
+2. **Segmentation** - Unsupervised and supervised image segmentation
+3. **Tumor Detection** - Feature extraction and classification
+4. **Bonus Deep Learning** - Deep learning-based segmentation
 
 ### Individual Modules
 
@@ -90,4 +90,4 @@ The dataset contains:
 
 ## Citation
 
-This project is part of ECSE 415 Introduction to Computer Vision course. 
+This project implements medical image segmentation and tumor detection techniques using computer vision and machine learning approaches. 
