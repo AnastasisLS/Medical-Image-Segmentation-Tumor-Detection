@@ -1,0 +1,12 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,240,176,284,226,"251,257,263,273,280,283,284,284,283,279,274,267,254,251,245,241,240,240,243,251","176,176,178,180,185,192,198,210,218,223,226,223,216,213,208,203,196,192,185,176"
+1,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,37,44,78,75,"37,37,52,55,64,72,78,78,75,69,50,40,37","71,59,45,44,45,48,54,57,63,69,75,75,71"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,300,11,343,50,"300,303,307,314,320,322,326,337,340,343,343,342,327,319,300,300","39,22,15,11,11,12,15,29,33,39,42,44,50,50,44,39"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,225,136,266,171,"252,237,232,227,226,225,225,226,229,242,248,253,261,266,264,261,252","171,171,170,165,163,158,155,152,149,140,137,136,137,149,153,160,171"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,159,301,190,332,"180,190,189,187,173,163,162,161,159,161,163,169,180","301,314,319,323,332,329,328,322,314,311,307,303,301"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,59,160,113,196,"73,87,99,104,108,111,113,113,104,94,89,71,63,59,59,62,73","168,160,160,161,163,169,174,175,187,195,196,196,195,192,184,179,168"
+6,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,150,185,175,217,"175,174,167,162,154,151,150,150,154,161,167,169,173,174,175","203,207,215,217,215,212,207,197,187,185,187,189,192,197,203"
+7,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,267,212,306,252,"267,306,306,267,267","212,212,252,252,212"
+8,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,257,74,287,123,"257,287,287,257,257","74,74,123,123,74"
+9,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,21,138,73,170,"21,73,73,21,21","138,138,170,170,138"
+10,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,0,0,57,47,"0,57,57,0,0","0,0,47,47,0"

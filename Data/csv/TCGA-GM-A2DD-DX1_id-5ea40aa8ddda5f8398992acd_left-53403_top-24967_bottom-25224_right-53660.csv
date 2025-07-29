@@ -1,0 +1,7 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,lymphocyte,lymphocyte,sTIL,rectangle,252,7,292,39,"252,292,292,252","7,7,39,39"
+1,lymphocyte,lymphocyte,sTIL,rectangle,259,78,287,112,"259,287,287,259","78,78,112,112"
+2,lymphocyte,lymphocyte,sTIL,rectangle,58,231,82,261,"58,82,82,58","231,231,261,261"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,221,124,255,162,"221,255,255,221","124,124,162,162"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,256,117,300,149,"256,300,300,256","117,117,149,149"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,110,254,144,306,"110,144,144,110","254,254,306,306"

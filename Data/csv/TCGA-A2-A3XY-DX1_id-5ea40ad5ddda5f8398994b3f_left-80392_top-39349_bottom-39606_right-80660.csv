@@ -1,0 +1,12 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,228,208,266,262,"228,266,266,228","208,208,262,262"
+1,tumor,tumor_nonMitotic,tumor_any,rectangle,15,198,63,232,"15,63,63,15","198,198,232,232"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,290,187,328,231,"290,328,328,290","187,187,231,231"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,215,157,247,205,"215,247,247,215","157,157,205,205"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,207,63,251,99,"207,251,251,207","63,63,99,99"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,232,118,260,152,"232,260,260,232","118,118,152,152"
+6,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,211,18,235,50,"211,235,235,211","18,18,50,50"
+7,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,184,226,225,256,"184,187,213,217,220,225,224,220,219,214,205,195,193,189,186,184","240,237,226,227,229,234,242,252,253,256,256,252,251,248,245,240"
+8,tumor,tumor_nonMitotic,tumor_any,polyline,9,156,47,188,"14,17,23,32,39,46,47,44,41,28,22,9,11,14","159,156,156,160,167,177,181,183,186,188,186,177,165,159"
+9,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,75,254,101,291,"101,101,95,92,85,80,76,75,75,79,80,86,91,93,101","269,275,288,291,290,286,280,273,263,256,254,254,256,257,269"
+10,tumor,tumor_nonMitotic,tumor_any,polyline,26,237,60,264,"38,31,27,26,27,34,41,53,59,60,59,55,52,38","264,261,254,251,245,239,237,237,239,246,252,262,264,264"

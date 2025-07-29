@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,69,69,105,101,"69,105,105,69","69,69,101,101"
+1,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,60,101,102,127,"60,102,102,60","101,101,127,127"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,92,91,126,143,"92,126,126,92","91,91,143,143"
+3,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,156,205,215,257,"156,215,215,156,156","205,205,257,257,205"
+4,tumor,tumor_nonMitotic,tumor_any,rectangle,1,235,50,272,"1,50,50,1,1","235,235,272,272,235"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,153,36,178,91,"178,178,177,176,172,164,163,161,156,153,153,156,162,166,178","56,77,82,86,91,91,90,85,67,56,41,36,38,41,56"
+6,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,24,127,74,157,"24,74,74,24,24","127,127,157,157,127"
+7,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,321,215,355,257,"321,355,355,321,321","215,215,257,257,215"
+8,unlabeled,AMBIGUOUS,AMBIGUOUS,polyline,91,315,125,354,"122,125,125,122,112,110,104,97,91,91,97,100,106,110,115,122","318,320,328,332,344,346,351,354,351,346,332,328,320,318,315,318"
+9,unlabeled,AMBIGUOUS,AMBIGUOUS,polyline,39,288,76,323,"39,39,45,58,69,75,76,76,70,65,45,39","322,313,306,296,288,288,289,299,310,314,323,322"
+10,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,22,260,56,294,"22,56,56,22,22","260,260,294,294,260"
+11,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,242,110,277,129,"242,277,277,242,242","110,110,129,129,110"

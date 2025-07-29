@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,tumor,tumor_nonMitotic,tumor_any,rectangle,75,189,131,251,"75,131,131,75","189,189,251,251"
+1,tumor,tumor_nonMitotic,tumor_any,rectangle,168,208,224,256,"168,224,224,168","208,208,256,256"
+2,tumor,tumor_nonMitotic,tumor_any,rectangle,14,78,54,124,"14,54,54,14","78,78,124,124"
+3,tumor,tumor_nonMitotic,tumor_any,rectangle,6,331,58,381,"6,58,58,6","331,331,381,381"
+4,tumor,tumor_nonMitotic,tumor_any,rectangle,18,17,100,55,"18,100,100,18","17,17,55,55"
+5,tumor,tumor_nonMitotic,tumor_any,rectangle,223,23,289,63,"223,289,289,223","23,23,63,63"
+6,tumor,tumor_nonMitotic,tumor_any,rectangle,285,0,347,50,"285,347,347,285","0,0,50,50"
+7,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,211,97,251,143,"211,251,251,211","97,97,143,143"
+8,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,111,300,193,340,"111,193,193,111","300,300,340,340"
+9,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,84,299,114,327,"84,114,114,84","299,299,327,327"
+10,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,31,189,71,259,"31,71,71,31","189,189,259,259"
+11,tumor,tumor_nonMitotic,tumor_any,rectangle,128,206,160,261,"128,160,160,128,128","206,206,261,261,206"

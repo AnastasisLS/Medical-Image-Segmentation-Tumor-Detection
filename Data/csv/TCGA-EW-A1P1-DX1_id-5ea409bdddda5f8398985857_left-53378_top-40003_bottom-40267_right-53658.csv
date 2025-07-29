@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,54,47,84,73,"54,84,84,54","47,47,73,73"
+1,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,298,168,347,232,"298,301,317,322,327,347,347,342,325,319,316,308,303,301,298","223,198,172,168,169,179,193,203,220,227,229,232,229,227,223"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,4,141,61,193,"4,61,61,4,4","141,141,193,193,141"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,114,17,156,51,"114,156,156,114,114","17,17,51,51,17"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,0,56,32,95,"12,4,1,0,4,14,16,20,26,32,32,31,28,16,12","95,92,89,85,73,61,59,56,56,61,66,75,80,92,95"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,20,233,57,265,"20,57,57,20,20","233,233,265,265,233"
+6,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,103,65,132,105,"129,132,132,127,115,108,104,103,104,106,112,114,129","69,82,87,96,105,104,99,94,81,76,68,65,69"
+7,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,261,72,285,110,"261,285,285,261","72,72,110,110"
+8,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,269,303,307,327,"269,307,307,269","303,303,327,327"
+9,unlabeled,AMBIGUOUS,AMBIGUOUS,polyline,204,70,236,101,"235,236,236,233,225,211,210,205,204,205,209,216,227,232,235","74,87,94,97,101,101,100,94,91,87,79,74,70,71,74"
+10,lymphocyte,lymphocyte,sTIL,rectangle,258,0,281,28,"258,281,281,258,258","0,0,28,28,0"
+11,lymphocyte,lymphocyte,sTIL,polyline,38,202,65,225,"43,58,60,63,65,63,61,48,45,42,38,40,43","212,202,203,208,215,219,225,225,224,223,219,215,212"

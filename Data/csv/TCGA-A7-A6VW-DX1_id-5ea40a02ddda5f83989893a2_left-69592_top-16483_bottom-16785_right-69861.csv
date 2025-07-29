@@ -1,0 +1,6 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,108,235,180,295,"108,180,180,108","235,235,295,295"
+1,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,0,103,42,153,"0,42,42,0","103,103,153,153"
+2,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,182,95,240,159,"182,240,240,182","95,95,159,159"
+3,apoptotic_body,AMBIGUOUS,AMBIGUOUS,rectangle,188,286,222,322,"188,222,222,188","286,286,322,322"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,83,308,143,370,"83,143,143,83","308,308,370,370"

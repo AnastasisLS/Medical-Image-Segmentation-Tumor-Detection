@@ -1,0 +1,8 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,260,20,302,48,"260,302,302,260","20,20,48,48"
+1,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,14,135,52,165,"14,52,52,14","135,135,165,165"
+2,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,153,156,191,184,"153,191,191,153","156,156,184,184"
+3,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,217,95,267,137,"217,267,267,217","95,95,137,137"
+4,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,202,107,226,127,"202,226,226,202","107,107,127,127"
+5,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,307,223,339,257,"307,339,339,307","223,223,257,257"
+6,lymphocyte,lymphocyte,sTIL,polyline,4,205,56,245,"4,7,23,29,42,46,54,56,56,47,45,23,15,9,7,4,4","232,227,205,205,209,210,216,220,227,234,235,245,245,242,240,234,232"

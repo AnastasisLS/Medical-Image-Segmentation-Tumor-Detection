@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,20,14,64,39,"20,64,64,20,20","14,14,39,39,14"
+1,lymphocyte,lymphocyte,sTIL,rectangle,259,1,293,25,"259,293,293,259,259","1,1,25,25,1"
+2,lymphocyte,lymphocyte,sTIL,rectangle,18,171,45,191,"18,45,45,18,18","171,171,191,191,171"
+3,tumor,tumor_nonMitotic,tumor_any,rectangle,56,138,137,204,"56,137,137,56,56","138,138,204,204,138"
+4,tumor,tumor_nonMitotic,tumor_any,rectangle,25,125,71,184,"25,71,71,25,25","125,125,184,184,125"
+5,tumor,tumor_nonMitotic,tumor_any,rectangle,39,181,81,211,"39,81,81,39,39","181,181,211,211,181"
+6,tumor,tumor_nonMitotic,tumor_any,rectangle,252,297,306,343,"252,306,306,252,252","297,297,343,343,297"
+7,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,184,289,253,328,"184,253,253,184,184","289,289,328,328,289"
+8,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,106,288,179,320,"106,179,179,106,106","288,288,320,320,288"
+9,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,81,112,140,132,"81,140,140,81,81","112,112,132,132,112"
+10,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,215,200,293,229,"215,293,293,215,215","200,200,229,229,200"
+11,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,185,249,284,290,"185,284,284,185,185","249,249,290,290,249"

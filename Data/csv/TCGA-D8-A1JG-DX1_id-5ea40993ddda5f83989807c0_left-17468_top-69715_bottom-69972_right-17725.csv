@@ -1,0 +1,10 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,lymphocyte,lymphocyte,sTIL,rectangle,141,118,163,158,"141,163,163,141","118,118,158,158"
+1,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,111,53,133,91,"111,133,133,111","53,53,91,91"
+2,lymphocyte,lymphocyte,sTIL,rectangle,187,206,211,240,"187,211,211,187","206,206,240,240"
+3,lymphocyte,lymphocyte,sTIL,rectangle,150,197,178,223,"150,178,178,150","197,197,223,223"
+4,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,56,109,80,137,"56,80,80,56","109,109,137,137"
+5,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,239,279,255,311,"239,255,255,239","279,279,311,311"
+6,lymphocyte,lymphocyte,sTIL,rectangle,289,29,315,53,"289,315,315,289","29,29,53,53"
+7,lymphocyte,lymphocyte,sTIL,rectangle,214,18,236,42,"214,236,236,214","18,18,42,42"
+8,lymphocyte,lymphocyte,sTIL,rectangle,201,0,221,24,"201,221,221,201","0,0,24,24"

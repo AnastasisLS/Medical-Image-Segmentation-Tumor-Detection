@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,plasma_cell,plasma_cell,sTIL,polyline,207,257,240,281,"207,213,218,230,231,240,239,229,214,208,207,207","270,260,257,257,258,268,278,281,281,278,276,270"
+1,plasma_cell,plasma_cell,sTIL,polyline,193,290,233,323,"202,226,230,231,233,233,230,224,219,213,207,199,196,193,193,194,199,202","290,290,291,292,302,308,313,319,322,323,322,319,317,313,301,298,291,290"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,126,16,164,85,"161,160,158,135,132,129,127,126,126,128,131,137,138,147,153,156,164,164,161","76,81,85,85,84,81,74,68,60,36,30,21,20,16,16,17,22,36,76"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,236,160,283,228,"236,283,283,236,236","160,160,228,228,160"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,160,109,194,176,"160,194,194,160,160","109,109,176,176,109"
+5,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,88,130,139,182,"88,139,139,88,88","130,130,182,182,130"
+6,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,220,85,279,146,"220,279,279,220,220","85,85,146,146,85"
+7,tumor,tumor_nonMitotic,tumor_any,rectangle,3,222,81,298,"3,81,81,3,3","222,222,298,298,222"
+8,tumor,tumor_nonMitotic,tumor_any,rectangle,41,276,97,335,"41,97,97,41,41","276,276,335,335,276"
+9,tumor,tumor_nonMitotic,tumor_any,rectangle,0,117,69,193,"0,69,69,0,0","117,117,193,193,117"
+10,plasma_cell,plasma_cell,sTIL,rectangle,250,298,279,333,"250,279,279,250,250","298,298,333,333,298"
+11,plasma_cell,plasma_cell,sTIL,rectangle,177,210,209,254,"177,209,209,177,177","210,210,254,254,210"

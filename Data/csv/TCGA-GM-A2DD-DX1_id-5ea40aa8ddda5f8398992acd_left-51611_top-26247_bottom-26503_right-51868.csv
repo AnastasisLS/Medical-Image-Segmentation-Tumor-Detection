@@ -1,0 +1,6 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,88,212,124,256,"88,124,124,88","212,212,256,256"
+1,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,polyline,101,265,135,316,"128,135,135,134,133,127,122,114,107,103,101,102,103,118,123,128","266,273,288,293,297,305,310,316,316,314,304,297,293,270,265,266"
+2,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,19,121,39,154,"19,39,39,19,19","121,121,154,154,121"
+3,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,117,76,139,93,"117,139,139,117,117","76,76,93,93,76"
+4,fibroblast,nonTILnonMQ_stromal,nonTIL_stromal,rectangle,128,55,148,75,"128,148,148,128,128","55,55,75,75,55"

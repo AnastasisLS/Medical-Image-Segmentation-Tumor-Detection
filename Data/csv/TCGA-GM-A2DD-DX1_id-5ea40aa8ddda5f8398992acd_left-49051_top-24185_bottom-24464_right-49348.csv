@@ -1,0 +1,13 @@
+,raw_classification,main_classification,super_classification,type,xmin,ymin,xmax,ymax,coords_x,coords_y
+0,tumor,tumor_nonMitotic,tumor_any,rectangle,275,0,321,44,"275,321,321,275","0,0,44,44"
+1,tumor,tumor_nonMitotic,tumor_any,rectangle,80,92,122,142,"80,122,122,80","92,92,142,142"
+2,tumor,tumor_nonMitotic,tumor_any,rectangle,174,60,208,104,"174,208,208,174","60,60,104,104"
+3,lymphocyte,lymphocyte,sTIL,rectangle,22,124,46,150,"22,46,46,22","124,124,150,150"
+4,lymphocyte,lymphocyte,sTIL,rectangle,168,169,190,203,"168,190,190,168","169,169,203,203"
+5,lymphocyte,lymphocyte,sTIL,rectangle,156,181,174,205,"156,174,174,156","181,181,205,205"
+6,lymphocyte,lymphocyte,sTIL,rectangle,141,195,165,227,"141,165,165,141","195,195,227,227"
+7,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,193,218,229,264,"193,229,229,193","218,218,264,264"
+8,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,160,249,210,283,"160,210,210,160","249,249,283,283"
+9,unlabeled,AMBIGUOUS,AMBIGUOUS,rectangle,113,318,153,344,"113,153,153,113","318,318,344,344"
+10,tumor,tumor_nonMitotic,tumor_any,rectangle,313,66,359,146,"313,359,359,313","66,66,146,146"
+11,tumor,tumor_nonMitotic,tumor_any,polyline,310,167,367,212,"328,319,310,310,312,315,325,333,338,344,351,356,357,366,367,367,365,357,328","212,211,191,183,178,174,170,168,167,167,168,170,172,183,185,194,200,206,212"
